@@ -1,2 +1,2 @@
 # 2048-Game-AI
-A program designed to beat the game 2048
+The Game 2048 and a program designed to beat the it, coded in C
